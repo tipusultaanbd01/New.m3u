@@ -1,5 +1,5 @@
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/me-tv.pnghttps://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sananda-tv.png" group-title="Internet TVInternet TV",Me TVSananda TV
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/me-tv.pnghttps://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sananda-tv.png" group-title="Internet TVInternet TV",Sananda TV
 https://zibo-play-server-1.tvhunter.top/San/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/m-sports.png" group-title="Internet TV",M Sports
 https://zibo-play-server-1.tvhunter.top/Ms/index.m3u8
@@ -7,9 +7,9 @@ https://zibo-play-server-1.tvhunter.top/Ms/index.m3u8
 https://zibo-play-offical12.tvhunter.top/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-16.png" group-title="Internet TV",Channel 16
 https://zibo-play-server-1.tvhunter.top/c16/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ipl-bangla.jpg" group-title="Live Events",IPL Bangla 🔥
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ipl-bangla.jpg" group-title="Live Events",IPL Bangla
 https://zibo-play-server-1.tvhunter.top/fddfQw/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/psl-urdu.jpg" group-title="Live Events",PSL 🔥🔥
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/psl-urdu.jpg" group-title="Live Events",PSL
 https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/laliga-tv.jpeg" group-title="Live Events",Laliga TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -39,7 +39,7 @@ https://zibo-play-app38.tvhunter.top/sangeetbangla_ml/index.m3u8
 http://zibo-play-app4.tvhunter.top/704/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/dd-sports.png" group-title="Sports TV",DD Sports
 https://zibo-play-app5.tvhunter.top/live/280/280_0.m3u8
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/t-sports-hd.png" group-title="Sports TV",T Sports HD
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/t-sports-hd.png" group-title="Sports TV",T Sports HD 🔥🔥
 https://zibo-play-server-1.tvhunter.top/xdi/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ptv-sports.png" group-title="Sports TV",Ptv Sports
 https://zibo-play-cldserver.tvhunter.top/cld/46/tracks-v1a1/mono.m3u8
@@ -59,7 +59,7 @@ https://zibo-play-app4.tvhunter.top/110/index.m3u8
 https://ziboplaybd.tvhunter.top/14_SONY-SPORTS_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-3.png" group-title="Sports TV",Sony Ten 3
 https://zibo-play-app4.tvhunter.top/121/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-2.png" group-title="Sports TV",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-2.png" group-title="Sports TV",Sony Ten 2 🔥🔥
 http://zibo-play-app4.tvhunter.top/120/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-1.png" group-title="Sports TV",Sony Ten 1
 http://zibo-play-app4.tvhunter.top/119/index.m3u8
@@ -181,7 +181,7 @@ https://zibo-play-cldserver.tvhunter.top/cld/18/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINE:-1 tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png" group-title="Kolkata TV",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/enterr10-bangla.png" group-title="Kolkata TV",Enterr10 Bangla
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/enterr10-bangla.png" group-title="Kolkata TV",Enterr10 Bangla 🔥🔥
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/akash-aath.png" group-title="Kolkata TV",Akash  Aath
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
